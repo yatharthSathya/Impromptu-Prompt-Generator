@@ -1,0 +1,6 @@
+# Random and system utilities
+rich>=13.5.2        # for fancy console output (optional, improves UX)
+inquirer>=3.1.3     # for interactive CLI prompt selection
+
+# JSON handling (if you want to save/load prompts)
+python-dotenv>=1.0.0   # optional for configuration
